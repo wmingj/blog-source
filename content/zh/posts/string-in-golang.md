@@ -1,6 +1,6 @@
 ---
 title: Golang中的string实现
-tags: [Golang]
+tags: [Go]
 date: 2019-12-11 21:31:47
 ---
 

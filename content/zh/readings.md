@@ -6,10 +6,11 @@ hidemeta: true
 ---
 
 仅以记录我在读、已读、预读之书。
+#### TODO
+- [ ] Build a Large Language Model (From Scratch)
 
 #### 25年
-- [ ] 《凤凰架构》
-- [ ] 《System Design Interview - An Insider’s Guide》
+- [10%] 《System Design Interview - An Insider’s Guide》
 - [ ] 《重构 第二版》
 - [x] 《Learn Concurrent Programming with Go (James Cutajar)》：介绍了Go并发编程中的常见问题、编程范式和解决规避方法
 
